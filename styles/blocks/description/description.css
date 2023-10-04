@@ -1,0 +1,7 @@
+.description {
+    display: flex;
+    position: absolute;
+    width: 1440px;
+    height: 510px;
+    top: 700px;
+}

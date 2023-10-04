@@ -1,5 +1,4 @@
 .header__subtitle {
-    display: flex;
     width: 388px;
     left: 64px;
     line-height: 25px;
@@ -7,4 +6,5 @@
     bottom: 30px;
     font-weight: normal;
     position: absolute;
+    font-family: 'Inter', 'Arial', 'sans-serif';
 }

@@ -7,5 +7,10 @@
 @import "../styles/blocks/header/logo/logo.css";
 @import "../styles/blocks/header/logo/logo_place_header.css";
 @import "../styles/blocks/header/_square-pic/header__square-pic.css";
-
+@import "../styles/blocks/description/description.css";
+@import "../styles/blocks/description/_two-columns/description__two-columns.css";
+@import "../styles/blocks/description/_two-columns/_brief/description__brief.css";
+@import "../styles/blocks/description/_two-columns/_main-text/description__main-text.css";
+@import "../styles/blocks/description/_two-columns/_paragraph/description__paragraph.css";
+@import "../styles/blocks/description/_two-columns/_span-accent/description__span-accent.css";
 
