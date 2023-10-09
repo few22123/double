@@ -1,4 +1,7 @@
 @import "../vedor/normalize.css";
+@import "../vedor/fonts/fonts.css";
+@import "../vedor/fonts/Inter-Regular.ttf";
+@import "../vedor/fonts/Inter-SemiBold.ttf";
 @import "../styles/blocks/page/page.css";
 @import "../styles/blocks/header/_title/header__title.css";
 @import "../styles/blocks/header/_subtitle/header__subtitle.css";
@@ -7,6 +10,7 @@
 @import "../styles/blocks/header/logo/logo.css";
 @import "../styles/blocks/header/logo/logo_place_header.css";
 @import "../styles/blocks/header/_square-pic/header__square-pic.css";
+
 @import "../styles/blocks/description/description.css";
 @import "../styles/blocks/description/_two-columns/description__two-columns.css";
 @import "../styles/blocks/description/_two-columns/_brief/description__brief.css";

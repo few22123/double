@@ -1,7 +1,5 @@
 .description {
     display: flex;
-    position: absolute;
-    width: 1440px;
-    height: 510px;
-    top: 700px;
+    justify-content: center;
+    padding-top: 100px;
 }
