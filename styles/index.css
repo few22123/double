@@ -10,7 +10,7 @@
 @import "../styles/blocks/header/_main-illustration/header__main-illustration.css";
 @import "../styles/blocks/header/logo/logo.css";
 @import "../styles/blocks/header/logo/logo_place_header.css";
-@import url("../styles/blocks/header/_square-pic/header__square-pic.css");
+@import "../styles/blocks/header/_square-pic/header__square-pic.css";
 @import "../styles/blocks/header/_link/header__link.css";
 
 @import "../styles/blocks/description/description.css";
