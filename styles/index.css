@@ -1,4 +1,4 @@
-/*header*/
+
 @import "../vedor/normalize.css";
 @import "../vedor/fonts/fonts.css";
 @import "../vedor/fonts/Inter-Regular.ttf";
@@ -12,14 +12,14 @@
 @import "../styles/blocks/header/logo/logo_place_header.css";
 @import "../styles/blocks/header/_square-pic/header__square-pic.css";
 @import "../styles/blocks/header/_link/header__link.css";
-/*description*/
+
 @import "../styles/blocks/description/description.css";
 @import "../styles/blocks/description/_two-columns/description__two-columns.css";
 @import "../styles/blocks/description/_two-columns/_brief/description__brief.css";
 @import "../styles/blocks/description/_two-columns/_main-text/description__main-text.css";
 @import "../styles/blocks/description/_two-columns/_paragraph/description__paragraph.css";
 @import "../styles/blocks/description/_two-columns/_span-accent/description__span-accent.css";
-/*techniques, cards*/
+
 @import "../styles/blocks/techniques/techniques.css";
 
 @import "../styles/blocks/techniques/cards/cards.css";
@@ -27,10 +27,10 @@
 @import "../styles/blocks/techniques/cards/_image/cards__image.css";
 @import "../styles/blocks/techniques/cards/_item/cards__item.css";
 @import "../styles/blocks/techniques/cards/_title/cards__title.css";
-/*section-title, section-subtitle*/
+
 @import "../styles/blocks/section-title/section-title.css";
 @import "../styles/blocks/section-subtitle/section-subtitle.css";
-/*digits, table*/
+
 @import "../styles/blocks/digits/digits.css";
 @import "../styles/blocks/digits/_head/section__head.css";
 
@@ -39,15 +39,15 @@
 @import "../styles/blocks/digits/table/_text/table__text.css";
 @import "../styles/blocks/digits/table/_cell/table__cell.css";
 
-/*kaufman*/
+
 @import "../styles/blocks/kaufman/kaufman.css";
 
-/*resources*/
+
 @import "../styles/blocks/resources/resources.css";
 @import "../styles/blocks/resources/_logo-zone/resources__logo-zone.css";
 @import "../styles/blocks/resources/link/link.css";
 
-/*footer*/
+
 @import "../styles/blocks/footer/footer.css";
 @import "../styles/blocks/footer/_column-heading/footer__column-heading.css";
 @import "../styles/blocks/footer/_column-link/footer__column-link.css";
