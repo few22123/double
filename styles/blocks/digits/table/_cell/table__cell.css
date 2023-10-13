@@ -1,0 +1,8 @@
+.table__cell {
+    width: 250px;
+    text-align: left;
+}
+
+.table__cell_theme_dark {
+    width: 200px;
+}

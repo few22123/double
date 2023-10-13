@@ -1,0 +1,10 @@
+.table__text {
+    line-height: 23px;
+    font-weight: normal;
+    font-size: 23px;
+    font-family: 'Inter', 'Arial', 'sans-serif';
+}
+
+.table__text_theme_dark {
+    color: white;
+}

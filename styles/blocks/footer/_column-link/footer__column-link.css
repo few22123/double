@@ -1,0 +1,4 @@
+.footer__column-link {
+    display: flex;
+    flex-direction: column;
+}

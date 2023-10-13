@@ -1,6 +1,19 @@
-@import "./logo_place_header.css";
+
 
 .logo {
     width: 183.90px;
     height: 32.82px;
+}
+
+.logo_place_header {
+    background-image: url(../../../../images/logo_theme_light\ 1.svg);
+    position: absolute;
+    top: 30px;
+    left: 64px;
+}
+
+.logo_place_footer {
+    background-image: url(../../../../images/logo_theme_dark\ 1.svg);
+    position: absolute;
+    margin: 0 auto;
 }
