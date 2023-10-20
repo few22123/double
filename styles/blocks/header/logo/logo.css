@@ -4,17 +4,3 @@
     width: 183.90px;
     height: 32.82px;
 }
-
-.logo_place_header {
-    background-image: url(../../../../images/logo_theme_light\ 1.svg);
-    position: absolute;
-    top: 12.31px;
-    left: 48px;
-    z-index: 1;
-}
-
-.logo_place_footer {
-   
-    position: absolute;
-    margin: 0 auto;
-}

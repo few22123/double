@@ -1,0 +1,7 @@
+.logo_place_header {
+    background-image: url(../../../../images/logo_theme_light\ 1.svg);
+    position: absolute;
+    top: 12.31px;
+    left: 48px;
+    z-index: 1;
+}
