@@ -1,0 +1,5 @@
+.header__text {
+    display: flex;
+    flex-direction: column;
+    margin: 242px 48px;
+}

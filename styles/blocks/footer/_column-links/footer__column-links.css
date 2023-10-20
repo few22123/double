@@ -7,3 +7,7 @@
     text-decoration: none;
     margin: 0 0 10px;
 }
+
+a:hover {
+    color: blue;
+}

@@ -1,11 +1,9 @@
 .header__title {
-    display: flex;
-    width: 730px;
-    left: 64px;
+    max-width: 730px;
+    margin: auto 0 153px;
     line-height: 96px;
     font-weight: 600;
     font-size: 102px;
-    position: relative;
-    align-items: center;
+  
     font-family: 'Inter', 'Arial', 'sans-serif';
 }

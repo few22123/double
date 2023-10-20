@@ -1,6 +1,6 @@
 .techniques {
-    width: 80%;
-    margin: 0 auto;
+    min-width: 1440px;
+    margin: 0 auto 85px;
     display: flex;
     flex-direction: column;
     align-items: center;

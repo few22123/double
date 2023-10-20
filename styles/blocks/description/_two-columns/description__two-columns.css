@@ -1,7 +1,5 @@
 .description__two-columns {
    display: flex;
-   justify-content: space-between;
    align-items: baseline;
-   margin: 100px;
-   margin-left: 144px;
+   margin: 0 144px;
 }

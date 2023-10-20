@@ -1,7 +1,7 @@
 .footer__column-heading {
     line-height: 18px;
     font-size: 18px;
-    font-weight: 600px;
     font-family: 'Inter', 'Arial', 'sans-serif';
     color: white;
+    margin: 0 0 20px;
 }

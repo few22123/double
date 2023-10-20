@@ -1,5 +1,6 @@
 .description {
+    min-width: 1440px;
     display: flex;
     justify-content: center;
-    padding-top: 100px;
+    margin-bottom: 100px;
 }

@@ -1,6 +1,7 @@
 .kaufman {
-    width: 100%;
-    margin: 100px 0 auto;
+    min-width: 1440px;
+    margin: 0 auto 100px;
     background: #1D1D1D;
+    padding: 90px;
 }
 

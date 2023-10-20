@@ -1,4 +1,4 @@
-
+/*header*/
 @import "../vedor/normalize.css";
 @import "../vedor/fonts/fonts.css";
 @import "../vedor/fonts/Inter-Regular.ttf";
@@ -12,47 +12,58 @@
 @import "../styles/blocks/header/logo/logo_place_header.css";
 @import "../styles/blocks/header/_square-pic/header__square-pic.css";
 @import "../styles/blocks/header/_link/header__link.css";
+@import "../styles/blocks/header/_text/header__text.css";
 
+/*description*/
 @import "../styles/blocks/description/description.css";
+@import "../styles/blocks/description/_brief/description__brief.css";
+@import "../styles/blocks/description/_main-text/description__main-text.css";
+@import "../styles/blocks/description/_paragraph/description__paragraph.css";
+@import "../styles/blocks/description/_span-accent/description__span-accent.css";
 @import "../styles/blocks/description/_two-columns/description__two-columns.css";
-@import "../styles/blocks/description/_two-columns/_brief/description__brief.css";
-@import "../styles/blocks/description/_two-columns/_main-text/description__main-text.css";
-@import "../styles/blocks/description/_two-columns/_paragraph/description__paragraph.css";
-@import "../styles/blocks/description/_two-columns/_span-accent/description__span-accent.css";
 
+/*techniques, cards*/
 @import "../styles/blocks/techniques/techniques.css";
 
+@import "../styles/blocks/techniques/_description/cards__description.css";
+@import "../styles/blocks/techniques/_image/cards__image.css";
+@import "../styles/blocks/techniques/_item/cards__item.css";
+@import "../styles/blocks/techniques/_title/cards__title.css";
 @import "../styles/blocks/techniques/cards/cards.css";
-@import "../styles/blocks/techniques/cards/_description/cards__description.css";
-@import "../styles/blocks/techniques/cards/_image/cards__image.css";
-@import "../styles/blocks/techniques/cards/_item/cards__item.css";
-@import "../styles/blocks/techniques/cards/_title/cards__title.css";
 
-@import "../styles/blocks/section-title/section-title.css";
-@import "../styles/blocks/section-subtitle/section-subtitle.css";
+/*section-title, section-subtitle*/
+@import "../styles/blocks/section__head/section__head.css";
+@import "../styles/blocks/section__head/section-subtitle/section-subtitle.css";
+@import "../styles/blocks/section__head/section-title/section-title.css";
+@import "../styles/blocks/section__head/section-subtitle/section-subtitle_theme_dark.css";
+@import "../styles/blocks/section__head/section-title/section-title_theme_dark.css";
 
+/*digits, table*/
 @import "../styles/blocks/digits/digits.css";
-@import "../styles/blocks/digits/_head/section__head.css";
 
 @import "../styles/blocks/digits/table/table.css";
-@import "../styles/blocks/digits/table/_heading/table__heading.css";
-@import "../styles/blocks/digits/table/_text/table__text.css";
-@import "../styles/blocks/digits/table/_cell/table__cell.css";
+@import "../styles/blocks/digits/_cell/table__cell.css";
+@import "../styles/blocks/digits/_text/table__text.css";
+@import "../styles/blocks/digits/_heading/table__heading.css";
+@import "../styles/blocks/digits/table/table_theme_dark.css";
+@import "../styles/blocks/digits/_cell/table__cell_theme_dark.css";
 
-
+/*kaufman*/
 @import "../styles/blocks/kaufman/kaufman.css";
 
-
+/*resources*/
 @import "../styles/blocks/resources/resources.css";
 @import "../styles/blocks/resources/_logo-zone/resources__logo-zone.css";
 @import "../styles/blocks/resources/link/link.css";
 
-
+/*footer*/
 @import "../styles/blocks/footer/footer.css";
 @import "../styles/blocks/footer/_column-heading/footer__column-heading.css";
 @import "../styles/blocks/footer/_column-link/footer__column-link.css";
 @import "../styles/blocks/footer/_column-links/footer__column-links.css";
-@import "../styles/blocks/footer/_column/footer__column.css";
 @import "../styles/blocks/footer/_columns/footer__colmns.css";
 @import "../styles/blocks/footer/_social-icon/footer__social-icon.css";
 @import "../styles/blocks/footer/_author/footer__author.css";
+@import "../styles/blocks/footer/_column/footer__column_content_copyright.css";
+@import "../styles/blocks/footer/_column/footer__column_content_info.css";
+@import "../styles/blocks/footer/_column/footer__column_content_social.css";

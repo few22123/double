@@ -1,8 +1,9 @@
 .description__brief {
     display: flex;
     font-family: 'Inter', 'Arial', 'sans-serif';
-    width: 175px;
+    max-width: 175px;
     font-weight: normal;
     font-size: 18px;
+    margin-right: 56px;
     color: #2F80ED;
 }

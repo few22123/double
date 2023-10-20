@@ -1,0 +1,5 @@
+.table_theme_dark {
+    max-width: 1102px;
+    margin: 0 auto;
+    grid-template-columns: repeat(5, 200px);
+}
